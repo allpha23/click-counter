@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <header
         className="App-header"
-        onClick={() => setCount(count + 1)}
+        onMouseDown={() => setCount(count + 1)}
       >
         <div className="container center">
           <h1 className="center">{count}</h1>
