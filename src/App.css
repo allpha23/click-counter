@@ -19,6 +19,7 @@
   justify-content: center;
   font-size: 4em;
   color: #29A51C;
+  user-select: none;
 }
 
 h1 {
